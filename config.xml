@@ -7,7 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>mybuttongame</name>
+    <name>mybuttonapp</name>
 
     <description>
         An app made using Scratch, GitHub, and PhoneGap.
